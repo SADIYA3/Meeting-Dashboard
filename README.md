@@ -20,7 +20,7 @@ Features
 
  Live URLs
 
-- **Frontend (Vercel)**: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
+- **Frontend (netlify)**:https://app.netlify.com/projects/courageous-gecko-a6556a/overview
 - **Backend (Render)**: https://meeting-dashboard-6noz.onrender.com
 
 ---
