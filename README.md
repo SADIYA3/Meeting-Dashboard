@@ -37,31 +37,8 @@ Features
 - Django
 - Django REST Framework
 - Simple JWT for authentication
-- PostgreSQL (or SQLite for development)
+- PostgreSQL 
 
 ---
 
- Setup Instructions
-
- Backend (Django)
-
-```bash
-# Clone the repo
-git clone https://github.com/SADIYA3/meetings-dashboard.git
-cd backend/
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run migrations
-python manage.py migrate
-
-# Create superuser
-python manage.py createsuperuser
-
-# Run server
-python manage.py runserver
+ 
