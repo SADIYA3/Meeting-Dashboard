@@ -21,8 +21,7 @@ Features
  Live URLs
 
 - **Frontend (Vercel)**: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-- **Backend (Render)**: [https://your-backend.onrender.com/api/](https://your-backend.onrender.com/api/)
-
+- **Backend (Render)**: https://meeting-dashboard-6noz.onrender.com
 
 ---
 
